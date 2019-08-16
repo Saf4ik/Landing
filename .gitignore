@@ -1,0 +1,5 @@
+Layout
+venv
+__pycache__
+landing.code-workspace
+db.sqlite3
